@@ -81,12 +81,12 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   visibility: hidden;
   opacity: 0;
-  right: 30px;
-  bottom: 120px;
+  right: 26px;
+  bottom: 90px;
   z-index: 996;
   background: #47b2e4;
-  width: 65px;
-  height: 65px;
+  width: 60px;
+  height: 60px;
   border-radius: 50px;
   transition: all 0.4s;
 }
